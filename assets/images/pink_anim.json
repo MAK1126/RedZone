@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "pink_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 30,
+            "frames": [
+                {
+                    "key": "pink",
+                    "frame": "pink01"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink02"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink03"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink04"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink05"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink06"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink07"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink08"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink09"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink10"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink11"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink12"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink13"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink14"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink15"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink16"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink17"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink18"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink19"
+                },
+                {
+                    "key": "pink",
+                    "frame": "pink20"
+                }
+            ]
+        }
+    ]
+}

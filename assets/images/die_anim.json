@@ -1,0 +1,76 @@
+{
+    "anims": [
+        {
+            "key": "die_idle",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 30,
+            "frames": [
+                {
+                    "key": "die",
+                    "frame": "die01"
+                },
+                {
+                    "key": "die",
+                    "frame": "die02"
+                },
+                {
+                    "key": "die",
+                    "frame": "die03"
+                },
+                {
+                    "key": "die",
+                    "frame": "die04"
+                },
+                {
+                    "key": "die",
+                    "frame": "die05"
+                },
+                {
+                    "key": "die",
+                    "frame": "die06"
+                },
+                {
+                    "key": "die",
+                    "frame": "die07"
+                },
+                {
+                    "key": "die",
+                    "frame": "die08"
+                },
+                {
+                    "key": "die",
+                    "frame": "die09"
+                },
+                {
+                    "key": "die",
+                    "frame": "die10"
+                },
+                {
+                    "key": "die",
+                    "frame": "die11"
+                },
+                {
+                    "key": "die",
+                    "frame": "die12"
+                },
+                {
+                    "key": "die",
+                    "frame": "die13"
+                },
+                {
+                    "key": "die",
+                    "frame": "die14"
+                },
+                {
+                    "key": "die",
+                    "frame": "die15"
+                },
+                {
+                    "key": "die",
+                    "frame": "die16"
+                }
+            ]
+        }
+    ]
+}

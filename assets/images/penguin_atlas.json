@@ -1,0 +1,398 @@
+{
+    "frames": [
+        {
+            "filename": "penguin01",
+            "frame": {
+                "w": 151,
+                "h": 123,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin02",
+            "frame": {
+                "w": 151,
+                "h": 124,
+                "x": 151,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin03",
+            "frame": {
+                "w": 152,
+                "h": 124,
+                "x": 302,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin04",
+            "frame": {
+                "w": 152,
+                "h": 123,
+                "x": 454,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin05",
+            "frame": {
+                "w": 152,
+                "h": 125,
+                "x": 606,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin06",
+            "frame": {
+                "w": 152,
+                "h": 125,
+                "x": 0,
+                "y": 125
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin07",
+            "frame": {
+                "w": 152,
+                "h": 126,
+                "x": 152,
+                "y": 125
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin08",
+            "frame": {
+                "w": 152,
+                "h": 125,
+                "x": 304,
+                "y": 125
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin09",
+            "frame": {
+                "w": 152,
+                "h": 126,
+                "x": 456,
+                "y": 125
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin10",
+            "frame": {
+                "w": 152,
+                "h": 126,
+                "x": 608,
+                "y": 125
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin11",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 0,
+                "y": 251
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin12",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 152,
+                "y": 251
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin13",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 304,
+                "y": 251
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin14",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 456,
+                "y": 251
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin15",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 608,
+                "y": 251
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin16",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 0,
+                "y": 378
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin17",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 152,
+                "y": 378
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin18",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 304,
+                "y": 378
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin19",
+            "frame": {
+                "w": 152,
+                "h": 128,
+                "x": 456,
+                "y": 378
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin20",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 608,
+                "y": 378
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin21",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 0,
+                "y": 506
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin22",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 152,
+                "y": 506
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin23",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 304,
+                "y": 506
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin24",
+            "frame": {
+                "w": 152,
+                "h": 126,
+                "x": 456,
+                "y": 506
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin25",
+            "frame": {
+                "w": 152,
+                "h": 126,
+                "x": 608,
+                "y": 506
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin26",
+            "frame": {
+                "w": 152,
+                "h": 127,
+                "x": 0,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin27",
+            "frame": {
+                "w": 152,
+                "h": 125,
+                "x": 152,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin28",
+            "frame": {
+                "w": 152,
+                "h": 125,
+                "x": 304,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin29",
+            "frame": {
+                "w": 152,
+                "h": 126,
+                "x": 456,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "penguin30",
+            "frame": {
+                "w": 152,
+                "h": 126,
+                "x": 608,
+                "y": 633
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

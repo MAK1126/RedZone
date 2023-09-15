@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "pink01",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink19",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 162,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink02",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 324,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink03",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 486,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink04",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 0,
+                "y": 138
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink05",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 162,
+                "y": 138
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink06",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 324,
+                "y": 138
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink07",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 486,
+                "y": 138
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink08",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 0,
+                "y": 276
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink09",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 162,
+                "y": 276
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink10",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 324,
+                "y": 276
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink11",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 486,
+                "y": 276
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink12",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 0,
+                "y": 414
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink13",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 162,
+                "y": 414
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink14",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 324,
+                "y": 414
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink15",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 486,
+                "y": 414
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink16",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 0,
+                "y": 552
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink17",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 162,
+                "y": 552
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink18",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 324,
+                "y": 552
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pink20",
+            "frame": {
+                "w": 162,
+                "h": 138,
+                "x": 486,
+                "y": 552
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

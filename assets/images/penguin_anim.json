@@ -1,0 +1,132 @@
+{
+    "anims": [
+        {
+            "key": "penguin_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 30,
+            "frames": [
+                {
+                    "key": "penguin",
+                    "frame": "penguin01"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin02"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin03"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin04"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin05"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin06"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin07"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin08"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin09"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin10"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin11"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin12"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin13"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin14"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin15"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin16"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin17"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin18"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin19"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin20"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin21"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin22"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin23"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin24"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin25"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin26"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin27"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin28"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin29"
+                },
+                {
+                    "key": "penguin",
+                    "frame": "penguin30"
+                }
+            ]
+        }
+    ]
+}

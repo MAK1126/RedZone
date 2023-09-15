@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "gameover_1",
+            "frame": {
+                "w": 640,
+                "h": 1030,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gameover_2",
+            "frame": {
+                "w": 640,
+                "h": 1030,
+                "x": 640,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gameover_3",
+            "frame": {
+                "w": 640,
+                "h": 1030,
+                "x": 1280,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gameover_4",
+            "frame": {
+                "w": 640,
+                "h": 1030,
+                "x": 1920,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gameover_5",
+            "frame": {
+                "w": 640,
+                "h": 1030,
+                "x": 0,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gameover_6",
+            "frame": {
+                "w": 640,
+                "h": 1030,
+                "x": 640,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gameover_7",
+            "frame": {
+                "w": 640,
+                "h": 1030,
+                "x": 1280,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "gameover_8",
+            "frame": {
+                "w": 640,
+                "h": 1030,
+                "x": 1920,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

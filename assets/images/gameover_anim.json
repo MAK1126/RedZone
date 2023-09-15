@@ -1,0 +1,44 @@
+{
+    "anims": [
+        {
+            "key": "gameover_idle",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 18,
+            "frames": [
+                {
+                    "key": "gameover",
+                    "frame": "gameover_1"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover_2"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover_3"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover_4"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover_5"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover_6"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover_7"
+                },
+                {
+                    "key": "gameover",
+                    "frame": "gameover_8"
+                }
+            ]
+        }
+    ]
+}
